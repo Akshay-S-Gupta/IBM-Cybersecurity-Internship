@@ -25,8 +25,8 @@ This project is a simple steganography application that allows users to hide and
 │   ├── Result_Decode.png
 │   └── Result_Encode.png
 ├── README.md (Project documentation)
-├── requirments.txt # Project documentation
-├── test_image.webp # Test image
+├── requirments.txt (Project documentation)
+├── test_image.webp (Test image)
 ├── steganography.py (Main application script)
 └── steganography_project.pptx (Project presentation)
 ```
