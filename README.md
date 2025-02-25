@@ -66,4 +66,4 @@ Here are some sample results from the `results` folder:
 
 
 ## Author
-Developed by [Akshay S. Gupta](https://github.com/Akshay-S-Gupta)
+Developed by [Akshay-S-Gupta](https://github.com/Akshay-S-Gupta)
