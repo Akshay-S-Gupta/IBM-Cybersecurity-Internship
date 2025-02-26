@@ -64,6 +64,8 @@ Here are some sample results from the `results` folder:
 
 ### Example of Decoding
 ![Decoded Image](results/Result_Decode.png)
+
+### Decoded Message
 ![Decoded Message](results/Result_Decoded_Output.png)
 
 
