@@ -23,6 +23,7 @@ This project is a simple steganography application that allows users to hide and
 │   └── (Contains images with hidden messages)
 │-- 📂 results
 │   ├── Result_Decode.png
+│   ├── Result_Decoded_Output.png
 │   └── Result_Encode.png
 ├── README.md (Project documentation)
 ├── requirments.txt (Project documentation)
@@ -62,7 +63,8 @@ Here are some sample results from the `results` folder:
 ![Encoded Image](results/Result_Encode.png)
 
 ### Example of Decoding
-![Decoded Message](results/Result_Decode.png)
+![Decoded Image](results/Result_Decode.png)
+![Decoded Message](results/Result_Decoded_Output.png)
 
 
 ## Author
