@@ -29,7 +29,7 @@ This project is a simple steganography application that allows users to hide and
 ├── requirments.txt (Project documentation)
 ├── test_image.webp (Test image)
 ├── steganography.py (Main application script)
-└── steganography_project.pptx (Project presentation)
+└── Akshay_S_Gupta.pptx (Project presentation)
 ```
 
 ## Installation
